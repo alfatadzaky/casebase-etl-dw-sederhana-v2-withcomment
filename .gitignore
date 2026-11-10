@@ -1,0 +1,10 @@
+# Environment & kredensial 
+.env
+
+# Virtual environment
+venv
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
